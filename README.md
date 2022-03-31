@@ -4,7 +4,7 @@ Make short link by using [Droplink](https://droplink.co/ref/DAKSHYADAV) API key
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Bhatmanjusms/droplink-bot)
 
 ##### Required Variables
 
