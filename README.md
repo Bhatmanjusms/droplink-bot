@@ -1,4 +1,4 @@
-# Droplink-bot
+# paisakamalo convert bot
 Make short link by using [Droplink](https://droplink.co/ref/DAKSHYADAV) API key
 ### Installation
 
